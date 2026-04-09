@@ -1,4 +1,0 @@
---c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\User -I .\Start -I .\Library -I .\System -I .\Hardware
--ID:\App_D\Keil\Keil\STM32F1xx_DFP\2.4.1\Device\Include
--D__UVISION_VERSION="536" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
--o .\objects\countsensor.o --omf_browse .\objects\countsensor.crf --depend .\objects\countsensor.d "Hardware\CountSensor.c"
