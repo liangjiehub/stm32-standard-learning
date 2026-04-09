@@ -7,3 +7,4 @@
 *.uvprojx text encoding=utf-8
 *.uvoptx text encoding=utf-8
 *.c linguist-language=C
+*.h linguist-language=C
