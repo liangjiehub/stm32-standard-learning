@@ -1,8 +1,0 @@
-# 文本文件使用 UTF-8 编码
-*.c text encoding=utf-8
-*.h text encoding=utf-8
-*.md text encoding=utf-8
-
-# Keil 工程文件
-*.uvprojx text encoding=utf-8
-*.uvoptx text encoding=utf-8
