@@ -30,3 +30,9 @@ int main(void)
 		OLED_ShowSignedNum(1, 7, Speed, 3);
 	}
 }
+//trae编译测试
+// 测试代码 - 两个数相加
+//	int a = 10;
+//	int b = 20;
+//	int sum = a + b;
+// 测试代码结束
